@@ -1,0 +1,24 @@
+.admin__addForm {
+  width: 50%;
+  margin-left: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: stretch;
+}
+.admin__add > h1 {
+  text-align: center;
+  color: var(--primary);
+}
+.admin__addForm > input,
+select {
+  margin: 20px;
+}
+.admin__addFormOptions > div > input {
+  margin: 20px 20px;
+}
+.admin__addBtn {
+  position: fixed;
+  bottom: var(--spacing-4);
+  right: var(--spacing-4);
+}

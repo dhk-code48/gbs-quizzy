@@ -1,0 +1,21 @@
+.button {
+  background: var(--primary);
+  padding: 15px 25px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-family: var(--rubik);
+  font-weight: 600;
+  letter-spacing: 2px;
+  border: none;
+  font-size: 17px;
+  outline: 1px solid var(--primary);
+  cursor: pointer;
+  word-spacing: 5px;
+  /* box-shadow: 0px 1px 10px var(--primary-light); */
+  display: flex;
+  color: var(--color);
+  align-items: center;
+}
+.button > p {
+  margin-right: 10px;
+}

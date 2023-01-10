@@ -1,0 +1,67 @@
+@import url("./_theme.css");
+@import url("./_variables.css");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.rubik {
+  font-family: "Rubik";
+}
+.display {
+  font-family: var(--display-font);
+}
+.avatar {
+  width: 70px;
+  height: 70px;
+}
+.avatar > .Color/Palette/Blue-01 {
+  background: #ffff00;
+}
+.crown__container {
+  width: 80px;
+  height: 80px;
+  position: relative;
+}
+.crown__container > .crown {
+  position: absolute;
+  font-size: 30px;
+  top: 0;
+  right: -5px;
+  color: #ffd60a;
+  transform: rotate(20deg);
+}
+.flex {
+  display: flex;
+}
+.icon-btn {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--primary-light);
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid var(--primary);
+}
+
+input,
+select,
+option {
+  border:5px solid #fff;
+  box-shadow:0px 10px 1px solid rgba(24, 23, 23, 0.568);
+  background: rgb(238, 236, 236);
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Rubik";
+  font-weight: 500;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+.avatar {
+  margin-right: 10px;
+  font-size: 20px;
+  padding: 0px !important;
+}

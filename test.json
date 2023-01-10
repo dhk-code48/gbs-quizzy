@@ -1,0 +1,322 @@
+[
+  {
+    "Sports": [
+      {
+        "avgTime": 15,
+        "chapter": "",
+        "correct": "1",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "26 m x 14 m" },
+          { "img": "", "label": "28 m x 15 m" },
+          { "img": "}", "label": "27 m x 16 m" },
+          { "img": "", "label": "28 m x 16 m" }
+        ],
+        "points": "8",
+        "question": "For the Olympics and World Tournaments, the dimensions of basketball court are",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 18,
+        "chapter": "",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "1958 in Tokyo" },
+          { "img": "", "label": "1962 in Jakarta" },
+          { "img": "}", "label": "1966 in Bangkok" },
+          { "img": "", "label": "1970 in Bangkok" }
+        ],
+        "points": "8",
+        "question": "Hockey was introduced in the Asian Games in",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 18,
+        "chapter": "",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "nternational Civil Aviation Organization" },
+          {
+            "img": "",
+            "label": "Indian Corporation of Agriculture Organization"
+          },
+          {
+            "img": "}",
+            "label": "Institute of Company of Accounts Organization"
+          },
+          { "img": "", "label": "None of the above" }
+        ],
+        "points": "4",
+        "question": "ICAO stands for",
+        "questionImg": ""
+      },
+      {}
+    ]
+  },
+  {
+    "Geography": [
+      {
+        "avgTime": 15,
+        "chapter": "Geography",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Nevada" },
+          { "img": "", "label": "Arizona" },
+          { "img": "}", "label": "New Mexico" },
+          { "img": "", "label": "Utah" }
+        ],
+        "points": "8",
+        "question": "Area 51 is located in which US state?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Geography",
+        "correct": "3",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": " ६५% " },
+          { "img": "", "label": "६६%" },
+          { "img": "}", "label": " ६७%" },
+          { "img": "", "label": "६८% " }
+        ],
+        "points": "2",
+        "question": "नेपालको कति प्रतिशत भू-भाग पहाडी प्रदेशले ओगटेको छ ? ",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Geography",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "प्रदेश नं १ " },
+          { "img": "", "label": " प्रदेश नं २" },
+          { "img": "}", "label": "प्रदेश नं ३ " },
+          { "img": "", "label": " प्रदेश नं ४" }
+        ],
+        "points": "4",
+        "question": " जनसंख्याको आधारमा ठुलो प्रदेश कुन हो ? ",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Baglung" },
+          { "img": "", "label": "Dharan" },
+          { "img": "}", "label": "Nuwakot" },
+          { "img": "", "label": "Parbat" }
+        ],
+        "points": "4",
+        "question": " In which district is Fungfung waterfall?",
+        "questionImg": ""
+      },
+      {}
+    ]
+  },
+  {
+    "History": [
+      {
+        "avgTime": 13,
+        "chapter": "",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Labour Party" },
+          { "img": "", "label": "Nazi Party" },
+          { "img": "}", "label": "Ku-Klux-Klan" },
+          { "img": "", "label": "Democratic Party" }
+        ],
+        "points": "2",
+        "question": "Hitler party which came into power in 1933 is known as",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "1940" },
+          { "img": "", "label": "1941" },
+          { "img": "}", "label": "1942" },
+          { "img": "", "label": "1943" }
+        ],
+        "points": "4",
+        "question": "During World War II, when did Germany attack France?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Visible light" },
+          { "img": "", "label": "Infrared radiation" },
+          { "img": "}", "label": "X-rays and gamma rays" },
+          { "img": "", "label": "Ultraviolet radiation" }
+        ],
+        "points": "4",
+        "question": "The ozone layer restricts",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 16,
+        "chapter": "",
+        "correct": "1",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "B.S. 2063 Bhadra 18" },
+          { "img": "", "label": "B.S. 2063 Jeth 21" },
+          { "img": "}", "label": "B.S. 2061 Asaar 12" },
+          { "img": "", "label": "B.S. 2063 Jeth 29" }
+        ],
+        "points": "8",
+        "question": " When was the Untouchable-free Nation Announced to Nepal?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 16,
+        "chapter": "",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Seto baagh" },
+          { "img": "", "label": "Maitighar" },
+          { "img": "}", "label": "Badal Pari" },
+          { "img": "", "label": "Hami Teen Bhai" }
+        ],
+        "points": "8",
+        "question": "Which is the Nepalese movie kept on the first Internet?",
+        "questionImg": ""
+      },
+      {}
+    ]
+  },
+  {
+    "General": [
+      {
+        "avgTime": 13,
+        "chapter": "",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "1967" },
+          { "img": "", "label": "1968" },
+          { "img": "}", "label": "1958" },
+          { "img": "", "label": "1922" }
+        ],
+        "points": "8",
+        "question": "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted ins",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 15,
+        "chapter": "",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          {
+            "img": "",
+            "label": "the infrared light kills bacteria in the body"
+          },
+          { "img": "", "label": "resistance power increases" },
+          {
+            "img": "}",
+            "label": "the pigment cells in the skin get stimulated and produce a healthy tan"
+          },
+          {
+            "img": "",
+            "label": "the ultraviolet rays convert skin oil into Vitamin D"
+          }
+        ],
+        "points": "4",
+        "question": "Exposure to sunlight helps a person improve his health because",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 15,
+        "chapter": "",
+        "correct": "1",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "USA" },
+          { "img": "", "label": "Fiji" },
+          { "img": "}", "label": "India" },
+          { "img": "", "label": "UK" }
+        ],
+        "points": "8",
+        "question": "Golf player Vijay Singh belongs to which country?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 16,
+        "chapter": "",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "May 8" },
+          { "img": "", "label": "May 18" },
+          { "img": "}", "label": "June 8" },
+          { "img": "", "label": "June 18" }
+        ],
+        "points": "4",
+        "question": "Each year World Red Cross and Red Crescent Day is celebrated on",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 16,
+        "chapter": "",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Taoism" },
+          { "img": "", "label": "Judaism" },
+          { "img": "}", "label": "Zoroastrianism (Parsi Religion)" },
+          { "img": "", "label": "Shintoism" }
+        ],
+        "points": "8",
+        "question": "Fire temple is the place of worship of which of the following religion?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 18,
+        "chapter": "",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Earthquakes" },
+          { "img": "", "label": "Rainfall" },
+          { "img": "}", "label": "Ocean depth" },
+          { "img": "", "label": "Sound intensity" }
+        ],
+        "points": "8",
+        "question": "Fathometer is used to measure",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 16,
+        "chapter": "",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Kathmandu" },
+          { "img": "", "label": "Bhaktapur" },
+          { "img": "}", "label": "Magdi" },
+          { "img": "", "label": "Mustang" }
+        ],
+        "points": "4",
+        "question": "Which is the first WiFi-free district of Nepal?",
+        "questionImg": ""
+      },
+      {}
+    ]
+  }
+]

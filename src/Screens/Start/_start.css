@@ -1,0 +1,75 @@
+.start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #023047;
+  padding: 50px 20px;
+  flex-direction: column;
+  width: 50vw;
+  border-radius: 40px;
+  color: #fff;
+  margin-left: 25vw;
+  /* min-height: 100vh; */
+  border: 5px solid #00b4d8;
+  margin-bottom: 100px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.87);
+}
+
+.start__title {
+  font-size: 35px;
+  letter-spacing: 5px;
+  font-family: "Shrikhand";
+  display: flex;
+  justify-content: center;
+  opacity: 0.8;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.start__title > p {
+  color: var(--secondary);
+  margin-left: 10px;
+}
+.start__options {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: space-between;
+  width: 80%;
+}
+.start__options > div {
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px 0px;
+  display: flex;
+}
+.start__options > div > p {
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: "Poppins";
+}
+
+.start__options > div > select {
+  width: 290px;
+  font-size: 17px;
+}
+.start__options > div > input {
+  width: 290px;
+  font-size: 17px;
+  margin: 20px 20px;
+}
+
+.start__options > div > button {
+  box-shadow: none;
+}
+
+.start_btn {
+  width: 100%;
+}
+.start_btn > button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}

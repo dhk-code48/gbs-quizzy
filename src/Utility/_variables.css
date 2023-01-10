@@ -1,0 +1,22 @@
+:root {
+  --rubik: "Rubik";
+  --display-font: "Shrikhand", cursive;
+
+  /* --secondary: #ccd5ae; */
+  --secondary: #ffde03;
+  --secondary-light: #e9edc9;
+  /* --primary-dark: #3d0066; */
+
+  --primary: #0336ff;
+  /* --primary: #d4a373; */
+  --primary-light: #faedcd;
+  /* --secondary-dark: #fdc500; */
+
+  --dark: #001d3d;
+  --black: #000814;
+  --color: #fff;
+
+  --bg: #fefae0;
+  --spacing-xl: 140px;
+  --spacing-4: 40px;
+}

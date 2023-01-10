@@ -1,0 +1,773 @@
+{
+  "Electric Field": {
+    "chapterName": "Electric Field",
+    "numberOfQuestions": 10,
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Zero charges" },
+          { "img": "", "label": "Single charges" },
+          { "img": "}", "label": "Point charges" },
+          { "img": "", "label": "None" }
+        ],
+        "points": "3",
+        "question": "If the sizes of charged bodies are very small compared to the distances between them, we treat them as",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Electric current" },
+          { "img": "", "label": "Electric Potential" },
+          { "img": "}", "label": "Electric Field" },
+          { "img": "", "label": "Electric Sapce" }
+        ],
+        "points": "3",
+        "question": "The force per unit charge is known as ____________.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "3",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "-1" },
+          { "img": "", "label": "0" },
+          { "img": "}", "label": "1" },
+          { "img": "", "label": "Infinite" }
+        ],
+        "points": "3",
+        "question": " What is the dielectric constant of a metal?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "1",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "9x10^(-9 ) N" },
+          { "img": "", "label": "9x10^9 N" },
+          { "img": "}", "label": "10x10^(-9 ) N" },
+          { "img": "", "label": "10x10^9 N" }
+        ],
+        "points": "3",
+        "question": "If the charge of 1 C is placed at a distance of 1 m from another charge of the same magnitude in a vacuum, it experiences an electrical force repulsion of magnitude ____________.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          {
+            "img": "",
+            "label": "Charge, which is a fraction of charge on an electron, is not possible"
+          },
+          { "img": "", "label": "A charge cannot be destroyed" },
+          { "img": "}", "label": "Charge exists on particles" },
+          {
+            "img": "",
+            "label": "There exists a minimum permissible charge on a particle"
+          }
+        ],
+        "points": "3",
+        "question": "The Quantization of charge indicates that",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "1",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Equality of charge" },
+          { "img": "", "label": "Polarity of charge" },
+          { "img": "}", "label": "Fraction of charg" },
+          { "img": "", "label": "None of the option" }
+        ],
+        "points": "3",
+        "question": "The property which differentiates two kinds of charges is called ____________.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Electric Current" },
+          { "img": "", "label": "Electric Flux" },
+          { "img": "}", "label": "Electric Field" },
+          { "img": "", "label": "Electric Potential" }
+        ],
+        "points": "3",
+        "question": "————— gives the information on field strength, direction, and nature of the charge.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "gives protons to silk" },
+          { "img": "", "label": "gains protons from silk" },
+          { "img": "}", "label": "gains electrons from silk " },
+          { "img": "", "label": "gives electrons to silk " }
+        ],
+        "points": "2",
+        "question": "What happens when a glass rod is rubbed with silk?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Length " },
+          { "img": "", "label": "Material " },
+          { "img": "}", "label": "Shape" },
+          { "img": "", "label": "Thickness" }
+        ],
+        "points": "3",
+        "question": "Electrical resistivity of a metallic wire depends upon its __________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Electric Charges and Fields",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Watt second" },
+          { "img": "", "label": " Ampere hour " },
+          { "img": "}", "label": "Volt second" },
+          { "img": "", "label": "Kilowatt hour" }
+        ],
+        "points": "3",
+        "question": " Unit of electric power may also be expressed as ————–.",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Work Energy And Power": {
+    "chapterName": "Work Energy And Power",
+    "numberOfQuestions": 8,
+    "questions": [
+      {
+        "avgTime": 7,
+        "chapter": " Work Energy And Power",
+        "correct": "3",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Force " },
+          { "img": "", "label": "Acceleration " },
+          { "img": "}", "label": "Displacement" },
+          { "img": "", "label": "Power" }
+        ],
+        "points": "2",
+        "question": "The rate of doing work is called ——————-",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Inelastic Collision " },
+          { "img": "", "label": "Elastic Collision " },
+          { "img": "}", "label": "Destructive collision " },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "3",
+        "question": "Which is the type of collision in which both the linear momentum and the kinetic energy of the system remain conserved?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Inelastic Collision " },
+          { "img": "", "label": "Elastic Collision " },
+          { "img": "}", "label": "Destructive collision " },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "3",
+        "question": " Collision between marble balls is which type of collision?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Chemical energy " },
+          { "img": "", "label": "Thermal energy " },
+          { "img": "}", "label": "Potential energy" },
+          { "img": "", "label": " Kinetic energy" }
+        ],
+        "points": "3",
+        "question": "The energy possessed by the body by virtue of its motion is known as?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "100 W" },
+          { "img": "", "label": "200 W " },
+          { "img": "}", "label": "20W" },
+          { "img": "", "label": "500 W" }
+        ],
+        "points": "3",
+        "question": "What is the power utilised when work of 1000 J is done in 2 seconds?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Heavy body" },
+          { "img": "", "label": " Light body " },
+          { "img": "}", "label": "Both " },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "3",
+        "question": "Which one has higher kinetic energy? Both light and heavy bodies have equal momenta.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "100kWh" },
+          { "img": "", "label": "200kWh" },
+          { "img": "}", "label": "120kWh" },
+          { "img": "", "label": "500kWh" }
+        ],
+        "points": "3",
+        "question": "An electric heater of rating 1000 W is used for 5 hrs per day for 20 days. What is the electrical energy utilized?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": " Work Energy And Power",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Negative " },
+          { "img": "", "label": "Zero " },
+          { "img": "}", "label": "Positive " },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "3",
+        "question": "A ball moves in a frictionless inclined table without slipping. The work done by the table surface on the ball is",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Gravitation": {
+    "noOfQuestion": 10,
+    "chapterName": "Gravitation",
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "100 N" },
+          { "img": "", "label": "500 N" },
+          { "img": "}", "label": "250 N" },
+          { "img": "", "label": "125 N" }
+        ],
+        "points": "3",
+        "question": "A body weighs 500 N on the surface of the earth. How much would it weight half way below the surface of the earth?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Positive" },
+          { "img": "", "label": "Negative" },
+          { "img": "}", "label": "Zero" },
+          { "img": "", "label": "Might be Positive or Negative" }
+        ],
+        "points": "3",
+        "question": "A missile is launched with a velocity less than the escape velocity. The sum of its kinetic and potential energy is",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "1032 days" },
+          { "img": "", "label": "129 days" },
+          { "img": "}", "label": "365 days" },
+          { "img": "", "label": "730 days" }
+        ],
+        "points": "3",
+        "question": "What would be the duration of the year if the distance between the earth and the sun gets doubled?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "(7/8) mgR" },
+          { "img": "", "label": "(5/6) mgR" },
+          { "img": "}", "label": "(6/7) mgR " },
+          { "img": "", "label": " (8/9) mgR" }
+        ],
+        "points": "3",
+        "question": "If a body of mass m is taken out from a point below the surface of earth equal to half the radius of earth, R, to a height R above the earths surface, then work done on it will be",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "R" },
+          { "img": "", "label": "R/2" },
+          { "img": "}", "label": "R/3" },
+          { "img": "", "label": "R/4" }
+        ],
+        "points": "3",
+        "question": "A body is projected vertically from the surface of the earth of radius R with velocity equal to half of the escape velocity. The maximum height reached by the body is",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "it is closer to the earth" },
+          { "img": "", "label": "it revolves round the earth" },
+          { "img": "}", "label": "it gets light from the sun" },
+          {
+            "img": "",
+            "label": "the escape velocity of gas molecules is less than their root mean square velocity here"
+          }
+        ],
+        "points": "3",
+        "question": "There is no atmosphere on the moon because",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "increase by 1% " },
+          { "img": "", "label": " decrease by 2%" },
+          { "img": "}", "label": "decrease by 1%" },
+          { "img": "", "label": "increase by 2%" }
+        ],
+        "points": "3",
+        "question": "If the radius of the earth were to be raise by 1% its mass remaining the same, the acceleration due to gravity on the surface of the earth will",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Cavendish" },
+          { "img": "", "label": "Brook Taylor " },
+          { "img": "}", "label": "Copernicus " },
+          { "img": "", "label": " none of these" }
+        ],
+        "points": "3",
+        "question": "Who among the following first gave the experimental velocity of G?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          {
+            "img": "",
+            "label": "The acceleration of S is always directed towards the centre of the earth."
+          },
+          {
+            "img": "",
+            "label": "The angular momentum of S about the centre of the earth changes in direction, but its magnitude remains constant."
+          },
+          {
+            "img": "}",
+            "label": "The total mechanical energy of S varies periodically with time."
+          },
+          {
+            "img": "",
+            "label": "The linear momentum of S remains constant in magnitude."
+          }
+        ],
+        "points": "3",
+        "question": "A satellite S is move in an elliptical orbit around the earth. The mass of the satellite is very small compared to the mass of the earth .",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gravitation",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "1 : 2" },
+          { "img": "", "label": "2 : 1" },
+          { "img": "}", "label": "3 : 5" },
+          { "img": "", "label": "5 : 3" }
+        ],
+        "points": "3",
+        "question": "The masses of two planets are in the ratio 1 : 2. Their radii are in the ratio 1 : 2. The acceleration due to gravity on the planets are in the ratio.",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Light-Reflection and Refraction": {
+    "noOfQuestion": 10,
+    "chapterName": "Light-Reflection and Refraction",
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "3",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Interference " },
+          { "img": "", "label": "Mirage " },
+          { "img": "}", "label": "Diffraction " },
+          { "img": "", "label": "Refraction" }
+        ],
+        "points": "2",
+        "question": "The change in the direction of a wave passing from one medium to another is termed as —————",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "180 degrees " },
+          { "img": "", "label": "90 degrees " },
+          { "img": "}", "label": "0 degree" },
+          { "img": "", "label": "45 degrees" }
+        ],
+        "points": "2",
+        "question": "What would be the angle of incidence for a light ray having zero reflection angle?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Interference " },
+          { "img": "", "label": "Refraction " },
+          { "img": "}", "label": "Diffraction " },
+          { "img": "", "label": "Mirage" }
+        ],
+        "points": "2",
+        "question": "Light can be focused on our retina through which of the following phenomena?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "a" },
+          { "img": "", "label": "v" },
+          { "img": "}", "label": "c" },
+          { "img": "", "label": "l" }
+        ],
+        "points": "2",
+        "question": "Speed of light in a vacuum is represented as —————.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "0",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "a convex mirror " },
+          { "img": "", "label": "a plane mirror " },
+          { "img": "}", "label": "a concave mirror " },
+          { "img": "", "label": "none of the options" }
+        ],
+        "points": "2",
+        "question": "5. A full length of the image of a distant tall building can be seen using —————.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Faraday`s law" },
+          { "img": "", "label": "Snell`s law" },
+          { "img": "}", "label": "Newton`s law" },
+          { "img": "", "label": " Murphy`s law" }
+        ],
+        "points": "2",
+        "question": "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant. It is given by ……………………",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Reflection " },
+          { "img": "", "label": "Interference " },
+          { "img": "}", "label": "Refraction " },
+          { "img": "", "label": "Divergence" }
+        ],
+        "points": "2",
+        "question": " Twinkling of stars is due to which optical phenomenon?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "3",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "a convex mirror " },
+          { "img": "", "label": "a plane mirror" },
+          { "img": "}", "label": "a concave mirror " },
+          { "img": "", "label": "all mirrors irrespective of their shape" }
+        ],
+        "points": "2",
+        "question": "The laws of reflection are valid for —————",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Radius of curvature " },
+          { "img": "", "label": "Focus " },
+          { "img": "}", "label": " Optical centre " },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "2",
+        "question": "Light from the Sun falling on a convex lens will converge at —————.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Light-Reflection and Refraction",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Radius of curvature " },
+          { "img": "", "label": " Optical centre" },
+          { "img": "}", "label": "Focus" },
+          { "img": "", "label": "None of the options" }
+        ],
+        "points": "2",
+        "question": "Concave lens produces —————.",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Laws Of Motion": {
+    "noOfQuestion": 10,
+    "chapterName": "Laws Of Motion",
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "1" },
+          { "img": "", "label": "0" },
+          { "img": "}", "label": "Increasing" },
+          { "img": "", "label": "Decreasing" }
+        ],
+        "points": "4",
+        "question": "What is the net force of a kite that is held stationary in the sky?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Statics " },
+          { "img": "", "label": "Thermodynamics " },
+          { "img": "}", "label": "Dynamics " },
+          { "img": "", "label": "Astronomy" }
+        ],
+        "points": "4",
+        "question": "Which is the branch of physics that deals with the motion of a body by considering the cause?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Linear velocity = 2(Mass + Velocity) " },
+          { "img": "", "label": "Linear velocity = Mass * Velocity " },
+          { "img": "}", "label": "Linear velocity = Mass / Velocity " },
+          { "img": "", "label": "Linear velocity = Mass – Velocity" }
+        ],
+        "points": "4",
+        "question": "What is the formula to find linear velocity?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Inertia of rest " },
+          { "img": "", "label": "Inertia of motion " },
+          { "img": "}", "label": "Inertia of direction " },
+          { "img": "", "label": "All the above options" }
+        ],
+        "points": "4",
+        "question": "Which is the type of inertia?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Becomes zero" },
+          { "img": "", "label": "Remains constant " },
+          { "img": "}", "label": "Increases gradually " },
+          { "img": "", "label": "Decreases gradually" }
+        ],
+        "points": "4",
+        "question": "When an external force is not applied to the system, its total momentum _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Moves with increasing velocity" },
+          { "img": "", "label": "Remains at rest" },
+          { "img": "}", "label": "Remains in a state of uniform motion" },
+          { "img": "", "label": "Option (b) and (c)" }
+        ],
+        "points": "4",
+        "question": "Apparent weight of a body = actual weight of the body, if the body _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Short force " },
+          { "img": "", "label": "Interval force" },
+          { "img": "}", "label": " Impulsive forces " },
+          { "img": "", "label": "Interrupting force" }
+        ],
+        "points": "4",
+        "question": " Forces acting for a short duration are called _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Force" },
+          { "img": "", "label": "Momentum" },
+          { "img": "}", "label": "Inertia" },
+          { "img": "", "label": "Acceleration" }
+        ],
+        "points": "4",
+        "question": "The inherent property, with which a body resists any change in its state of motion is known as _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "1 Newton = 1 kg x 1 m/s^2 " },
+          { "img": "", "label": " 1 Newton = 1 kg" },
+          { "img": "}", "label": "1 Newton = 1 kg x 1 m/s " },
+          { "img": "", "label": "1 Newton = m/s^2" }
+        ],
+        "points": "4",
+        "question": "1 Newton = _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Laws of Motion",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "gravitational force" },
+          { "img": "", "label": "electrostatic force" },
+          { "img": "}", "label": " weak force" },
+          { "img": "", "label": "strong force" }
+        ],
+        "points": "4",
+        "question": "Inside the nucleus, two protons are held together by a force which overcomes the repulsion. This force is called",
+        "questionImg": ""
+      }
+    ]
+  }
+}

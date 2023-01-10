@@ -1,0 +1,725 @@
+{
+  "Acid,bases and salts": {
+    "chapterName": "Acid,bases and salts",
+    "noOfQuestion": 10,
+    "questions": [
+      {
+        "avgTime": 13,
+        "chapter": "Acids,bases and salts",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "protongenic" },
+          { "img": "", "label": "protophilic" },
+          { "img": "}", "label": "amphoteric" },
+          { "img": "", "label": "amphiprotic" }
+        ],
+        "points": "8",
+        "question": "A proton donor is a chemical that",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 13,
+        "chapter": "Acids,bases and salts",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "gastric juice" },
+          { "img": "", "label": " vinegar" },
+          { "img": "}", "label": "blood plasma" },
+          { "img": "", "label": " lemon juice" }
+        ],
+        "points": "4",
+        "question": "The PH of which of the following is more than 7?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 13,
+        "chapter": "Acids,bases and salts",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Citric Acid" },
+          { "img": "", "label": "Oxalic Acid" },
+          { "img": "}", "label": "Lactic Acid" },
+          { "img": "", "label": "HCl" }
+        ],
+        "points": "4",
+        "question": "Which Acid is present in Tomato?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 13,
+        "chapter": "Acids,bases and salts",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "HCl pH 1" },
+          { "img": "", "label": "CH3COOH pH 5" },
+          { "img": "}", "label": "Lemon juice pH 2.2" },
+          { "img": "", "label": "Pure Milk pH 6" }
+        ],
+        "points": "4",
+        "question": "Which of the following is a strong acid?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Acids,bases and salts",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Baking soda" },
+          { "img": "", "label": "Baking powder" },
+          { "img": "}", "label": "Washing soda" },
+          { "img": "", "label": "Bleaching powder" }
+        ],
+        "points": "4",
+        "question": "Na2CO3.10H2O is known as –",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Acids,bases and salts",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Blue vitriol" },
+          { "img": "", "label": "Baking soda" },
+          { "img": "}", "label": "Washing soda" },
+          { "img": "", "label": "Gypsum" }
+        ],
+        "points": "4",
+        "question": "Which of the following salts does not contain water of crystallisation?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Acids,bases and salts",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": " Acidic" },
+          { "img": "", "label": "Basic" },
+          { "img": "}", "label": "Neutral" },
+          { "img": "", "label": " None of these" }
+        ],
+        "points": "2",
+        "question": "When a pH value of a solution shows 7, then a solution is?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Acids,bases and salts",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": " Calcium Carbonate" },
+          { "img": "", "label": "Potassium Chloride" },
+          { "img": "}", "label": "Sodium Bicarbonate" },
+          { "img": "", "label": "Hydrogen Chloride" }
+        ],
+        "points": "2",
+        "question": " What is the chemical name of baking soda?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Acids,bases and salts",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Neela thotha" },
+          { "img": "", "label": "Kala Azar" },
+          { "img": "}", "label": "Caustic soda" },
+          { "img": "", "label": "None of these" }
+        ],
+        "points": "2",
+        "question": "What is the common name of sodium hydroxide?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Acids,bases and salts",
+        "correct": "3",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Water" },
+          { "img": "", "label": " Gas" },
+          { "img": "}", "label": " Alcohol" },
+          { "img": "", "label": " Honey" }
+        ],
+        "points": "8",
+        "question": "Which of the following is viscous in nature?",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Organic Compound": {
+    "chapterName": "Organic Compound",
+    "noOfQuestion": 9,
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Formic acid" },
+          { "img": "", "label": " Formaldehyde" },
+          { "img": "}", "label": "Methane" },
+          { "img": "", "label": "Methanol" }
+        ],
+        "points": "4",
+        "question": "Which of the following is the simplest member of organic compounds?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "0",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Both hydrogen and carbon" },
+          { "img": "", "label": "Carbon" },
+          { "img": "}", "label": "Hydrogen" },
+          { "img": "", "label": "Oxygen" }
+        ],
+        "points": "2",
+        "question": "Hydrocarbons are organic compounds with element __________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "KCl" },
+          { "img": "", "label": "CH3OH" },
+          { "img": "}", "label": "HCl" },
+          { "img": "", "label": "CH3COOH" }
+        ],
+        "points": "4",
+        "question": "Which of the following is neither an acid nor base?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Isocyano" },
+          { "img": "", "label": "Carbonyl" },
+          { "img": "}", "label": " Isocyanide" },
+          { "img": "", "label": "Carboxyl" }
+        ],
+        "points": "4",
+        "question": "Organic compounds can be classified even based upon the function groups. Which of the following is not a functional group?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Methane" },
+          { "img": "", "label": "Methene" },
+          { "img": "}", "label": "Ethane" },
+          { "img": "", "label": "Ethene" }
+        ],
+        "points": "4",
+        "question": "Identify the simplest alkane.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Organic Compund",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Methane and ethane" },
+          { "img": "", "label": "Ethane and propane" },
+          { "img": "}", "label": "Propane and butane" },
+          { "img": "", "label": "Butane and hexane" }
+        ],
+        "points": "4",
+        "question": "Liquified petroleum gas is mainly composed of _____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 13,
+        "chapter": "Organic Compund",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "alkane" },
+          { "img": "", "label": "alkyne" },
+          { "img": "}", "label": "alkene" },
+          { "img": "", "label": "aldehyde" }
+        ],
+        "points": "4",
+        "question": "Which among the following is formed when an alcohol is dehydrated?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 13,
+        "chapter": "Organic Compund",
+        "correct": "2",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Fructose and mannose" },
+          { "img": "", "label": "Mannose and glucose" },
+          { "img": "}", "label": "Glucose and fructose " },
+          { "img": "", "label": "Glucose" }
+        ],
+        "points": "8",
+        "question": "The components of Insulin are:",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 12,
+        "chapter": "Organic Compund",
+        "correct": "0",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Methane" },
+          { "img": "", "label": "Ethane" },
+          { "img": "}", "label": "Propane" },
+          { "img": "", "label": "Butane" }
+        ],
+        "points": "2",
+        "question": "Which alkane is known as marsh gas?",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Gases": {
+    "chapterName": "Gases",
+    "noOfQuestion": 10,
+    "questions": [
+      {
+        "avgTime": 12,
+        "chapter": "Gases",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Nitrogen" },
+          { "img": "", "label": "hydrogen" },
+          { "img": "}", "label": "Neon" },
+          { "img": "", "label": "oxygen" }
+        ],
+        "points": "4",
+        "question": "The example of gas having monoatomic molecules is",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Gases",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "carbon dioxide" },
+          { "img": "", "label": "hydrogen" },
+          { "img": "}", "label": "sulphur" },
+          { "img": "", "label": "oxygen" }
+        ],
+        "points": "4",
+        "question": "31.1 degree is the critical temperature for",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "0",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "760 mm of Hg" },
+          { "img": "", "label": "740 mm of Hg" },
+          { "img": "}", "label": "720 mm of Hg" },
+          { "img": "", "label": "780 mm of Hg" }
+        ],
+        "points": "2",
+        "question": "1 atmosphere is equal to",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "2",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "pressure" },
+          { "img": "", "label": "effusion" },
+          { "img": "}", "label": "diffusion" },
+          { "img": "", "label": "volume" }
+        ],
+        "points": "2",
+        "question": "The fragrance of a flower spreads because of",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "nuclear fusion" },
+          { "img": "", "label": "fission" },
+          { "img": "}", "label": "ions" },
+          { "img": "", "label": "atoms" }
+        ],
+        "points": "2",
+        "question": "Sun is usually heated by",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "3",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "motors" },
+          { "img": "", "label": "fans" },
+          { "img": "}", "label": "cars" },
+          { "img": "", "label": "lasers" }
+        ],
+        "points": "2",
+        "question": "Plasma is used to drive particle accelerators and",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Helium" },
+          { "img": "", "label": "Argon" },
+          { "img": "}", "label": "Nitrogen" },
+          { "img": "", "label": "Neon" }
+        ],
+        "points": "4",
+        "question": "Which of the following gas produces red light when electricity is flows throught it?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 14,
+        "chapter": "Gases",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Helium" },
+          { "img": "", "label": "Krypton" },
+          { "img": "}", "label": "Xenon" },
+          { "img": "", "label": "Radon" }
+        ],
+        "points": "4",
+        "question": "A radioactive rare gas is",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Hydrogen" },
+          { "img": "", "label": "Helium" },
+          { "img": "}", "label": "Carbon Dioxide" },
+          { "img": "", "label": "Oxygen" }
+        ],
+        "points": "2",
+        "question": "Which gas is also called'noble gas'?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Gases",
+        "correct": "3",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": " Boltzmann" },
+          { "img": "", "label": "Maxell" },
+          { "img": "}", "label": "Clausius" },
+          { "img": "", "label": "Bernoulli" }
+        ],
+        "points": "8",
+        "question": "The kinetic molecular theory of gases was put forward in 1738 by",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Metals and Non-metals": {
+    "chapterName": "Metals and Non-metals",
+    "noOfQuestion": 9,
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "1",
+        "level": "Easy",
+        "options": [
+          { "img": "", "label": "Kaolinite" },
+          { "img": "", "label": "Bauxite " },
+          { "img": "}", "label": "Malachite " },
+          { "img": "", "label": "Cinnabar" }
+        ],
+        "points": "2",
+        "question": "The primary ore of aluminium is which of the following?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Hematite" },
+          { "img": "", "label": "Magnetite " },
+          { "img": "}", "label": "Siderite " },
+          { "img": "", "label": " Iron Pyrites" }
+        ],
+        "points": "3",
+        "question": "Which of the following is not an appropriate ore for iron extraction?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Zinc" },
+          { "img": "", "label": "Copper " },
+          { "img": "}", "label": "Iron " },
+          { "img": "", "label": "Mercury" }
+        ],
+        "points": "3",
+        "question": "Cinnabar is used to extract which metal?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          {
+            "img": "",
+            "label": "Aluminium is a poor conductor of heat and electricity"
+          },
+          { "img": "", "label": "Aluminium is light in weight" },
+          { "img": "}", "label": "It readily dissolves in HCl" },
+          { "img": "", "label": "Aluminium is highly resistant to corrosion" }
+        ],
+        "points": "3",
+        "question": "Aluminium does not have which of the following properties?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Cobalt is a lustrous white metal" },
+          { "img": "", "label": "It is attacked by alkalies" },
+          { "img": "}", "label": "Cobalt is malleable" },
+          { "img": "", "label": "Cobalt is ductile" }
+        ],
+        "points": "3",
+        "question": "Which of the following isn`t a cobalt property?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Limonite" },
+          { "img": "", "label": "Zincite" },
+          { "img": "}", "label": "Calamine " },
+          { "img": "", "label": "Franklinite" }
+        ],
+        "points": "3",
+        "question": "Which one of the following is not a zinc ore?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Brass" },
+          { "img": "", "label": "Bronze " },
+          { "img": "}", "label": "Duralumin " },
+          { "img": "", "label": "Nichrome" }
+        ],
+        "points": "3",
+        "question": "Copper and zinc alloy is known as __________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Copper" },
+          { "img": "", "label": "Nickel " },
+          { "img": "}", "label": "Iron" },
+          { "img": "", "label": "Aluminum" }
+        ],
+        "points": "3",
+        "question": "The main component of Duralumin alloy is ____________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Metals and Non-metals",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "98 percent" },
+          { "img": "", "label": "94 percent" },
+          { "img": "}", "label": "86 percent" },
+          { "img": "", "label": "74 percent" }
+        ],
+        "points": "3",
+        "question": "In calamine, what is the zinc concentration?",
+        "questionImg": ""
+      }
+    ]
+  },
+  "Periodic Classification of Elements": {
+    "chaperName": "Periodic Classification of Elements",
+    "noOfQuestion": 8,
+    "questions": [
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "1",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": " Li, Na, and K" },
+          { "img": "", "label": "He, Na and Ar" },
+          { "img": "}", "label": "Ca, Sr and Ba" },
+          { "img": "", "label": " CL, Br and I" }
+        ],
+        "points": "3",
+        "question": "Which of the following does not belong to the group of Doberiener’s triad?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "0",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": " Atomic Weights" },
+          { "img": "", "label": " Atomic Number" },
+          { "img": "}", "label": "Chemical properties" },
+          { "img": "", "label": "No of protons" }
+        ],
+        "points": "3",
+        "question": "The attributes of corresponding elements are the periodic functions of the ________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Atomic mass" },
+          { "img": "", "label": " Element behaviour" },
+          { "img": "}", "label": " No of electrons" },
+          { "img": "", "label": " Atomic number" }
+        ],
+        "points": "3",
+        "question": " An element`s physical and chemical properties are a periodic function of its mass",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "periods" },
+          { "img": "", "label": "groups " },
+          { "img": "}", "label": "series " },
+          { "img": "", "label": "rows" }
+        ],
+        "points": "3",
+        "question": "Mendeleev’s periodic table’s horizontal rows were called __________",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "3",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Azimuthal quantum number b) " },
+          { "img": "", "label": "Spin quantum number" },
+          { "img": "}", "label": "Magnetic quantum number" },
+          { "img": "", "label": "Principal quantum number" }
+        ],
+        "points": "4",
+        "question": "The greatest number in the period correlates to the highest number in the period.",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "3",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Ni" },
+          { "img": "", "label": "Au" },
+          { "img": "}", "label": "La" },
+          { "img": "", "label": "Nb" }
+        ],
+        "points": "4",
+        "question": ". Which of the following elements belongs to the periodic table`s second transition( elements that have partially filled d orbitals.) series?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "0",
+        "level": "Hard",
+        "options": [
+          { "img": "", "label": "Metallic" },
+          { "img": "", "label": "Non-metallic " },
+          { "img": "}", "label": "Metalloid " },
+          { "img": "", "label": "Varies from element to element" }
+        ],
+        "points": "4",
+        "question": "What are the transition( elements that have partially filled d orbitals. ) elements’ characteristics?",
+        "questionImg": ""
+      },
+      {
+        "avgTime": 10,
+        "chapter": "Periodic Classification of Elements",
+        "correct": "2",
+        "level": "Medium",
+        "options": [
+          { "img": "", "label": "Acidic nature only" },
+          { "img": "", "label": "Basic nature only" },
+          { "img": "}", "label": "Both acidic nature and basic nature" },
+          { "img": "", "label": "Nothing" }
+        ],
+        "points": "3",
+        "question": " What may a litmus paper be used to test?",
+        "questionImg": ""
+      }
+    ]
+  }
+}
